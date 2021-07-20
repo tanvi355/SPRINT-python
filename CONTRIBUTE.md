@@ -1,4 +1,4 @@
-## Submitting a pull request
+## Format of your README file
 #### Step#1: Name the folder of your script by 'your Name' 🌟
 
 #### Step#2: Add the issue no for what you are creating the pull request in your reademe file 
