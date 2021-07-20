@@ -19,7 +19,7 @@ Do not directly clone the repository as it is not considered as a good practice.
 ### Step#3: Create a new branch: 
 `git checkout -b new-user` (new user -> your name)
 
-### Step#4 Create a folder by your name 
+### Step#4 Create a folder by Project Issue Name
 add your scripts to that and a readme file checkout the format for your Readme file here [Contribute](https://github.com/Clinify-Open-Sauce/SPRINT-python/blob/main/CONTRIBUTE.md)
 
 ### Step#6: Add your files 
